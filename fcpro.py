@@ -160,8 +160,8 @@ def menu():
     xn = name.upper()
     logo()
     print("")
-    print("\033[93;1m     HELLO   : \033[92;1m"+xn)
-    print("\033[93;1m     REGION  : \033[92;1m") + loc
+    print("\033[93;1m    USERNAME : \033[92;1m"+xn)
+    print("\033[93;1m      REGION : \033[92;1m") + loc
     print("\033[93;1m     YOUR IP : \033[92;1m") + ip
     print("")
 
