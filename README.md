@@ -12,8 +12,8 @@ $ pip2 install requests bs4
 
 $ apt install git
 
-$ git clone https://github.com/Azim-Vau/fcpro.git
+$ git clone https://github.com/Khulafo/FCPRO-RECODED.git
 
-$ cd fcpro
+$ cd FCPRO-RECODED
 
-$ python2 fcpro.py
+$ python2 FCPRO-RECODED.py
